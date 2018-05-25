@@ -1,11 +1,11 @@
 <?php
 
 /**
- * Binary Gap Solution
+ * Find longest sequence of zeros in binary representation of an integer.
  *
  * @param integer $N
  *
- * @return void
+ * @return integer
  */
 function solution(int $N)
 {
